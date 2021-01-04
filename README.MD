@@ -1,10 +1,10 @@
-# HTML5 and CSS3 course
+# HTML5 and CSS3 course 💻
 
-## Goals
+## Goals 🎯
     -History and basic structure
     -Semantics
     -HTML5 and CSS3 main elements
 
-## Outcome
+## Outcome ✔️
     -Personal page
 
