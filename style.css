@@ -1,6 +1,8 @@
 body {
     background-color: #fbe4e4;
     font-family: 'Roboto', sans-serif;
+    max-width: 900px;
+    margin: auto;
 }
 
 .author-photo {
@@ -29,6 +31,14 @@ body {
     transition-duration: 1s;
   }
 
+li {
+    height:auto;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    padding-left: 180px;
+}
+
 .post-title{
     font-size: 16px;
     margin: 0;
@@ -46,10 +56,12 @@ body {
 .post-content {
     margin: 0;
     margin-bottom: 15px;
+    text-align: justify;
 }
 
 .post-img {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .contact {
